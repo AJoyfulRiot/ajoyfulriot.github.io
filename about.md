@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### About Us
 
-### More Information
+We’re twin sisters and best friends Malissa & Machelle. After years of talking about creating a space to share our passion for all things design, we finally started A Joyful Riot in March 2014. We created A Joyful Riot to provide tutorials, printables, and party ideas geared toward forming wonderful memories with your loved ones.
 
-A place to include any other types of information that you'd like to include about yourself.
+This Design Guide is an open-source resource that we use for our site and printables. The Guide includes our design principles, guidelines for user experience and visual identity standards. The Guide will continue to evolve as we learn what works best AJR. 
 
-### Contact me
+### Contact Us!
 
-[email@domain.com](mailto:email@domain.com)
+[ajoyfulriot@gmail.com.com](mailto:ajoyfulriot@gmail.com)
