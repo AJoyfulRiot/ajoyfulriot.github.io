@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: A Joyful Riot Deisgn
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+A Joyful Riot provides tutorials, printables, and party ideas geared toward forming wonderful memories with your loved ones.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+This Design Guide is an open-source resource that we use for our site. The Guide includes our design principles, guidelines for user experience and visual identity standards. The Guide will continue to evolve as we learn what works best for AJR.
