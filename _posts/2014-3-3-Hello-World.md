@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Joyful Riot Deisgn
+title: A Joyful Riot Design
 ---
 
 A Joyful Riot provides tutorials, printables, and party ideas geared toward forming wonderful memories with your loved ones.
