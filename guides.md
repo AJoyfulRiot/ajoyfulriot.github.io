@@ -6,4 +6,4 @@ permalink: /guides/
 
 ### Design Guides
 
-1. [Printables](https://github.com/AJoyfulRiot/ajoyfulriot.github.io/blob/master/guides/printables.md)
+1. [Printables](http://design.ajoyfulriot.com/guides/printables)
