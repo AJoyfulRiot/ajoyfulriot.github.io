@@ -12,4 +12,4 @@ This Design Guide is an open-source resource that we use for our site and printa
 
 ### Contact Us!
 
-[ajoyfulriot@gmail.com.com](mailto:ajoyfulriot@gmail.com)
+[ajoyfulriot@gmail.com](mailto:ajoyfulriot@gmail.com)
